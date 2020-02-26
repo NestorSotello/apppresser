@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.gif
+*.pdf
+/config.xml
+/service-worker.js
+/.vs
+app-data.json
